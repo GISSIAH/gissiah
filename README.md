@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**GISSIAH/gissiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## I'm Bryan Malunje , a Geo-Information Systems graduate, Drone pilot and self taught developer
+### I'm Bryan Malunje , a Geo-Information Systems graduate, Drone pilot and self taught developer
 
 - 🔭 I just launched my first product : <a src="www.zamalomarket-mw.com">Zamalo Marketplace</a>
 - 🌱 I’m currently exploring React js
