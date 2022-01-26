@@ -8,14 +8,14 @@
 - ⚡ Fun fact: I love to play Call of Duty: Warzone
 
 ### Languages and Tools:
- *Python
- *Javascript
- *React Js
- *Next Js
- *Node Js
- *Mongo Db
- *PostgreSQL
- *PyQGIS
+ * Python
+ * Javascript
+ * React Js
+ * Next Js
+ * Node Js
+ * Mongo Db
+ * PostgreSQL
+ * PyQGIS
 
 
 ### Interests
