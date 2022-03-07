@@ -3,7 +3,7 @@
 
 ### I'm Bryan Malunje , a Geo-Information Systems graduate, Drone pilot and self taught developer
 
-- 🔭 Just launched my first product : [Zamalo Marketplace](http://www.zamalomarket-mw.com)
+- 🔭 First solo project : [Zamalo Marketplace](http://www.zamalomarket-mw.com)
 - 🌱 I’m currently exploring React js
 - ⚡ Fun fact: I love to play Call of Duty: Warzone
 
