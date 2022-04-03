@@ -2,10 +2,9 @@
 
 
 ### I'm Bryan Malunje , a Geo-Information Systems graduate, Drone pilot and self taught developer
-
-- 🔭 First solo project : [Zamalo Marketplace](http://www.zamalomarket-mw.com)
-- 🌱 I’m currently exploring React js
-- ⚡ Fun fact: I love to play Call of Duty: Warzone
+- I am a Fullstack developer, mainly developing on Node Js and React Js
+- I’m currently exploring React js
+- Fun fact: I love to play Call of Duty: Warzone
 
 ### Languages and Tools:
  * Python
