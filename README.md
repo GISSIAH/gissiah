@@ -3,8 +3,7 @@
 
 ### I'm Bryan Malunje , a Geo-Information Systems graduate, Drone pilot and self taught developer
 - I am a Fullstack developer, mainly developing on Node Js and React Js
-- I’m currently exploring React js
-- Fun fact: I love to play Call of Duty: Warzone
+- I’m currently exploring React js or Next js. Id also love to learn how to build and scale microservices
 
 ### Languages and Tools:
  * Python
