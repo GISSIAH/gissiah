@@ -6,14 +6,15 @@
 - I’m currently exploring React js or Next js. Id also love to learn how to build and scale microservices
 
 ### Languages and Tools:
- * Python
  * Javascript
+ * Typescript
  * React Js
  * Next Js
  * Node Js
  * Mongo Db
  * PostgreSQL
  * PyQGIS
+ * Kotlin
 
 
 ### Interests
