@@ -3,7 +3,7 @@
 
 ### I'm Bryan Malunje , a Geo-Information Systems graduate, Drone pilot and self taught developer
 - I am a Fullstack developer, mainly developing on Node Js and React Js
-- I’m currently exploring React js or Next js. Id also love to learn how to build and scale microservices
+- I’m currently exploring C# , building MVC applications and API's
 
 ### Languages and Tools:
  * Javascript
@@ -15,6 +15,8 @@
  * PostgreSQL
  * PyQGIS
  * Kotlin
+ * C#
+ * ASP .NET MVC
 
 
 ### Interests
