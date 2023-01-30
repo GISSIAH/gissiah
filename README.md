@@ -13,7 +13,7 @@
  * Node Js
  * Mongo Db
  * PostgreSQL
- * PyQGIS
+ * React Native
  * Kotlin
  * C#
  * ASP .NET MVC
