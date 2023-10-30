@@ -3,20 +3,18 @@
 
 ### I'm Bryan Malunje , a Geo-Information Systems graduate, Drone pilot and self taught developer
 - I am a Fullstack developer, mainly developing on Node Js and React Js
-- I’m currently exploring C# , building MVC applications and API's
+- I’m currently exploring Python and C#, building API's and full stack apps.
 
 ### Languages and Tools:
  * Javascript
+ * Python
  * Typescript
+ * Django
  * React Js
- * Next Js
- * Node Js
  * Mongo Db
  * PostgreSQL
- * React Native
  * Kotlin
  * C#
- * ASP .NET MVC
 
 
 ### Interests
