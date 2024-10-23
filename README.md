@@ -7,6 +7,8 @@
 
 ### Languages and Tools:
  * Javascript
+ * Node js
+ * Next Js
  * Python
  * Typescript
  * Django
